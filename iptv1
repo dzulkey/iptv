@@ -1,0 +1,12 @@
+#EXTM3U
+#PLAYLIST:iptvcat.com
+#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Undefined",National Geographic Channel
+http://mfe.cliptv.az/dash/National_Geographic_HD.ism/playlist.mpd?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",NATIONAL GEOGRAPHIC HD
+http://152.89.62.111:8080/magu/magu/150792?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",National Geographic FHD
+http://tbsrv.me:8880/alfredo/alfredo/69578?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA National Geographic East UHD
+http://supersonictv.live:25461/903310/034806/22123?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",USA National Geographic West LHD
+http://supersonictv.live:25461/903310/034806/22124?checkedby:iptvcat.com
